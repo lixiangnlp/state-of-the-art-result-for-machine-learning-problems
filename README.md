@@ -104,7 +104,7 @@ MACHINE TRANSLATION</a></td>
     <tr>
       <td><a href='https://arxiv.org/abs/1706.03762'>Attention Is All You Need</a></td>
       <td align="left"> <ul><li>WMT 2014 English-to-French </li><li>WMT 2014 English-to-German </li></ul></td>
-      <td align="left"> <ul><li>  BLEU: 41.0 </li><li>   BLEU: 28.4 </li></ul> </td>
+      <td align="left"> <ul><li>  BLEU: 41.8 </li><li>   BLEU: 28.4 </li></ul> </td>
       <td align="left"> <ul><li><a href='https://github.com/jadore801120/attention-is-all-you-need-pytorch'>PyTorch</a> </li><li> <a href='https://github.com/tensorflow/tensor2tensor'>Tensorflow</a></li></ul></td>
       <td align="left">2017</td>    
     </tr>
